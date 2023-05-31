@@ -58,7 +58,7 @@ Aula voltadas para o estudo React.JS
 
 > ✅4-![img](https://i.ytimg.com/vi/um9WkmclLFs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqUbxpW3X_gH_H-yLzXDasuAr7GA)
 >
-> #### Expressões em JSX. Inserção de imagens no App. Constantes e Variáveis - Curso de React - Aula 04
+> Expressões em JSX. Inserção de imagens no App. Constantes e Variáveis - Curso de React - Aula 04
 
 
 
