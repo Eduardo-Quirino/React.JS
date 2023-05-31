@@ -80,7 +80,7 @@ Aula voltadas para o estudo React.JS
 
 ### Enviar funções para os componentes
 
-> 7-![img](https://i.ytimg.com/vi/6T6AM9VbLMY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrhlQMcSid18_lO9PmWPiVIvjRaw)
+> ✅7-![img](https://i.ytimg.com/vi/6T6AM9VbLMY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrhlQMcSid18_lO9PmWPiVIvjRaw)
 >
 > #### Enviar funções para os componentes - Curso de React - Aula 07
 
@@ -88,7 +88,7 @@ Aula voltadas para o estudo React.JS
 
 ### Usando CSS em React
 
-> 8-![img](https://i.ytimg.com/vi/zhP0EoBbfuc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvpfPli4mAZVM6mu4CaNF1l7XFPA)
+> ✅8-![img](https://i.ytimg.com/vi/zhP0EoBbfuc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvpfPli4mAZVM6mu4CaNF1l7XFPA)
 >
 > #### Usando CSS em React, formas de usar CSS em React - Curso de React - Aula 08
 
@@ -96,7 +96,7 @@ Aula voltadas para o estudo React.JS
 
 ###  renderização de componentes
 
-> 9-![img](https://i.ytimg.com/vi/rg3QOhzii_w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWLXRGJeapph6dbPCazfIZXnE_vQ)
+> ✅9-![img](https://i.ytimg.com/vi/rg3QOhzii_w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWLXRGJeapph6dbPCazfIZXnE_vQ)
 >
 > #### Como funciona a renderização de componentes em React - Curso de React - Aula 09
 
@@ -104,7 +104,7 @@ Aula voltadas para o estudo React.JS
 
 ### como usar State
 
-> 10-![img](https://i.ytimg.com/vi/ZokLiEbKiiU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCxVbLvTAa0-2l4BSDHY9sGVoWTw)
+> ✅10-![img](https://i.ytimg.com/vi/ZokLiEbKiiU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCxVbLvTAa0-2l4BSDHY9sGVoWTw)
 >
 > #### O que é State e como usar State em React - Curso de React - Aula 10
 >
@@ -114,7 +114,7 @@ Aula voltadas para o estudo React.JS
 
 ### Eventos em React 
 
-> 11-![img](https://i.ytimg.com/vi/UVJfll2KefM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUVQCyf19RdvXR2ZFcOhKfHWqquA)
+> ✅11-![img](https://i.ytimg.com/vi/UVJfll2KefM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUVQCyf19RdvXR2ZFcOhKfHWqquA)
 >
 > #### Eventos em React - Curso de React - Aula 11
 
